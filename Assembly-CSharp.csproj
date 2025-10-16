@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{F17171B9-765B-ADD1-326D-BD23F60E0999}</ProjectGuid>
+    <ProjectGuid>{A42EA9A1-4BE5-AB52-4F87-23C8B848133B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -67,6 +67,9 @@
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\Platform.cs" />
     <Compile Include="Assets\BallBouncer.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\___readme.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
